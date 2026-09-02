@@ -1,0 +1,7 @@
+{
+  "name": "vercel-stresser",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "echo Hello"
+  }
+}
