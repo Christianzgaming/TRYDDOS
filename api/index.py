@@ -16,7 +16,7 @@ from typing import Optional, List, Dict
 # ============================================
 
 VERSION = "5.0.0"
-DEFAULT_TARGET = "https://167.104.100.205/"
+DEFAULT_TARGET = "https://172.65.55.227:19443/"
 DEFAULT_CONCURRENCY = 5
 DEFAULT_DURATION = 3
 DEFAULT_TIMEOUT = 5
